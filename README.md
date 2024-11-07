@@ -28,9 +28,9 @@ python run.py eval --config config/eval_conll04.conf
  The manuscript is in preparation (TBD)
 
 ## References
-Markus Eberts and Adrian Ulges, 2020, 'Span-based joint entity and relation extraction with transformerpre-training' In 24th European Conference on Artifi-cial Intelligence (ECAI).
-Youmi Ma, Tatsuya Hiraoka, and Naoaki Okazaki. Named Entity Recognition and Relation Extraction Using Enhanced Table Filling by Contextualized Representations. 自然言語処理, 29(1):187–223, March 2022. (doi: 10.5715/jnlp.29.187).
-Youmi Ma, Tatsuya Hiraoka, and Naoaki Okazaki. Joint Entity and Relation Extraction Based on Table Labeling Using Convolutional Neural Networks. 6th Workshop on Structured Prediction for NLP (SPNLP), May 2022.
+-Markus Eberts and Adrian Ulges, 2020, 'Span-based joint entity and relation extraction with transformer pre-training' In 24th European Conference on Artificial Intelligence (ECAI).
+-Youmi Ma, Tatsuya Hiraoka, and Naoaki Okazaki. Named Entity Recognition and Relation Extraction Using Enhanced Table Filling by Contextualized Representations. 自然言語処理, 29(1):187–223, March 2022. (doi: 10.5715/jnlp.29.187).
+-Youmi Ma, Tatsuya Hiraoka, and Naoaki Okazaki. Joint Entity and Relation Extraction Based on Table Labeling Using Convolutional Neural Networks.6th Workshop on Structured Prediction for NLP (SPNLP), May 2022.
 
 ## Acknowledgment
 Ghadeer Mobasher* is part of the [PoLiMeR-ITN](http://polimer-itn.eu/) and is supported by the European Union’s Horizon 2020 research and innovation program under the Marie Skłodowska-Curie grant agreement PoLiMeR, No 812616.
